@@ -1,0 +1,9 @@
+device_id,type,location_general,location_specific,description,fields,pixel_coordinate,notes
+70886b125beb,Awair Omni,UVA,111H Olsson,,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb","1,445,390",
+70886b125e64,Awair Omni,UVA,105 Olsson,,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb","712,447",
+70886b125c6f,Awair Omni,UVA,114 Olsson,,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb","1,295,644",
+70886b125db1,Awair Omni,UVA,C111 Olsson,Wall across from 111H,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb","1,265,342",awair-onmi-25396
+70886b12624f,Awair Omni,UVA,112 Olsson,South wall,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb","870,638",awair-onmi-26126
+70886b126a0d,Awair Omni,UVA,111F,North wall,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb","1,520,345",awair-onmi-27261
+70886b125d72,Awair Omni,UVA,104 Olsson,North wall,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb","495,778",awair-onmi-25463
+70886b127d5c,Awair Omni,UVA,C113 Olsson,Wall by 113E,"Humidity_%,Temperature_°C,awair_score,co2_ppm,pm2.5_μg/m3,voc_ppb","1,886,293",awair-onmi-29799
